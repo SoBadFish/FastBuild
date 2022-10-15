@@ -1,0 +1,12 @@
+team:
+  - name: "建筑师"
+    nameColor: "&e"
+    blockWoolColor: "35:14"
+    canPvp: false
+    inventory:
+      armor: []
+      inventory: []
+    rgb:
+      r: 255
+      g: 0
+      b: 0

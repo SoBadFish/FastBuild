@@ -1,0 +1,15 @@
+name: FastBuild
+main: org.sobadfish.fastbuild.FastBuildMain
+version: 1.0.0
+api:
+  - 1.0.11
+  - 3.0.0
+author: sobadfish
+load: POSTWORLD
+description: "速建小游戏"
+
+softdepend:
+  - ScoreboardPlugin
+
+loadbefore:
+  - ScoreboardPlugin
